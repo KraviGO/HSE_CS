@@ -1,0 +1,15 @@
+/Users/igorkravchenko/RiderProjects/HSE_CS/project_1_1/ConsoleApp2/ConsoleApp2/bin/Debug/net6.0/ConsoleApp2
+/Users/igorkravchenko/RiderProjects/HSE_CS/project_1_1/ConsoleApp2/ConsoleApp2/bin/Debug/net6.0/ConsoleApp2.deps.json
+/Users/igorkravchenko/RiderProjects/HSE_CS/project_1_1/ConsoleApp2/ConsoleApp2/bin/Debug/net6.0/ConsoleApp2.runtimeconfig.json
+/Users/igorkravchenko/RiderProjects/HSE_CS/project_1_1/ConsoleApp2/ConsoleApp2/bin/Debug/net6.0/ConsoleApp2.dll
+/Users/igorkravchenko/RiderProjects/HSE_CS/project_1_1/ConsoleApp2/ConsoleApp2/bin/Debug/net6.0/ConsoleApp2.pdb
+/Users/igorkravchenko/RiderProjects/HSE_CS/project_1_1/ConsoleApp2/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.csproj.AssemblyReference.cache
+/Users/igorkravchenko/RiderProjects/HSE_CS/project_1_1/ConsoleApp2/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/igorkravchenko/RiderProjects/HSE_CS/project_1_1/ConsoleApp2/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.AssemblyInfoInputs.cache
+/Users/igorkravchenko/RiderProjects/HSE_CS/project_1_1/ConsoleApp2/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.AssemblyInfo.cs
+/Users/igorkravchenko/RiderProjects/HSE_CS/project_1_1/ConsoleApp2/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.csproj.CoreCompileInputs.cache
+/Users/igorkravchenko/RiderProjects/HSE_CS/project_1_1/ConsoleApp2/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.dll
+/Users/igorkravchenko/RiderProjects/HSE_CS/project_1_1/ConsoleApp2/ConsoleApp2/obj/Debug/net6.0/refint/ConsoleApp2.dll
+/Users/igorkravchenko/RiderProjects/HSE_CS/project_1_1/ConsoleApp2/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.pdb
+/Users/igorkravchenko/RiderProjects/HSE_CS/project_1_1/ConsoleApp2/ConsoleApp2/obj/Debug/net6.0/ConsoleApp2.genruntimeconfig.cache
+/Users/igorkravchenko/RiderProjects/HSE_CS/project_1_1/ConsoleApp2/ConsoleApp2/obj/Debug/net6.0/ref/ConsoleApp2.dll
